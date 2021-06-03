@@ -1,0 +1,15 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Content =================== */
+
+/** Content >> #post-10 .cardapiohome .uagb-rm__title-wrap **/
+#post-10 .cardapiohome .uagb-rm__title-wrap {
+	width: 270px !important;
+}
+
+/** Content >> Cardapiohome uagb rm price **/
+#post-10 .cardapiohome .uagb-rm__price {
+	width: 90px !important;
+}
+
